@@ -6,6 +6,8 @@
         **add three dots  to "spread:" as
             EX: console.log(..."Hello")     ---> H e l l o 
 -Spread with Array Literals 
+-Spread with Objects
+    *Copies properties from one object into another object literal
 -Rest Params
 -Destructing Arrays 
 -Destructing Objects 
