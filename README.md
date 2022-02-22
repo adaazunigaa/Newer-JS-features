@@ -17,6 +17,11 @@
     *Not available inside of arrow functions!
 -Rest Params
     *Collects all remaining arguments into an actual array
+-Destructing 
+    *A short, clean syntax to 'unpack':
+        -Values form arrays
+        -Properties form objects 
+    *Into distinct variables 
 -Destructing Arrays 
 -Destructing Objects 
 -Destructing Params  
