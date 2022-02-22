@@ -8,7 +8,15 @@
 -Spread with Array Literals 
 -Spread with Objects
     *Copies properties from one object into another object literal
+-The Arguments Object
+    *Available inside every function
+    *It's an array-like object 
+        -Has a length property 
+        -Does not have array methods like push/pop
+    *Contains all the arguments passed to the function 
+    *Not available inside of arrow functions!
 -Rest Params
+    *Collects all remaining arguments into an actual array
 -Destructing Arrays 
 -Destructing Objects 
 -Destructing Params  
